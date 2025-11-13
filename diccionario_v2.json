@@ -1,0 +1,2430 @@
+{
+  "consulta médica externa general": {
+    "codigo": [
+      "621111",
+      "621112",
+      "621115",
+      "621116"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consultorios de medicina general": {
+    "codigo": [
+      "621111",
+      "621112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "alergología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "anestesiología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cardiología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cirugía plástica": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cirugía": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consulta médica externa especializada": {
+    "codigo": [
+      "621113",
+      "621114",
+      "621115",
+      "621116"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "control de peso con prescripción médica": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "dermatología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "diabetología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "endocrinología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "gastroenterología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "geriatría": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "ginecología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "gineco-obstetricia": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hematología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "homeopatía": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "inhaloterapia": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "medicina física": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "médicos internistas": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "nefrología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "neumología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "neurocirugía": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "neurología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "nutriología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "oftalmología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "oncología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "ortopedia": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "osteopatía": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "otoneurofoniatría": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "otorrinolaringología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "patología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "pediatría": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "proctología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "psiquiatría": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "reumatología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "traumatología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "urología": {
+    "codigo": [
+      "621113",
+      "621114"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "clínicas de consultorios médicos": {
+    "codigo": [
+      "621115",
+      "621116"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "blanqueamiento dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cirugía dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cirugía maxilofacial": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consulta médica dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consultorios dentales": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cosmetología dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "endodoncia": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "exodoncia": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "implantología": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "odontología": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "ortodoncia": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "periodoncia": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "profilaxis dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "prostodoncia": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "protésica maxilofacial": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "radiología dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "restauración dental": {
+    "codigo": [
+      "621211",
+      "621212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consulta quiropráctica": {
+    "codigo": [
+      "621311",
+      "621312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia quiropráctica": {
+    "codigo": [
+      "621311",
+      "621312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "optometría": {
+    "codigo": [
+      "621320"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "consulta psicológica": {
+    "codigo": [
+      "621331",
+      "621332"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cursos de equilibrio emocional": {
+    "codigo": [
+      "621331",
+      "621332"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "psicología": {
+    "codigo": [
+      "621331",
+      "621332"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapias de psicología clínica": {
+    "codigo": [
+      "621331",
+      "621332"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapias de psicología educativa": {
+    "codigo": [
+      "621331",
+      "621332"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapias de psicología industrial": {
+    "codigo": [
+      "621331",
+      "621332"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "audiología": {
+    "codigo": [
+      "621341",
+      "621342"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia": {
+    "codigo": [
+      "621341",
+      "621342"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia deportiva": {
+    "codigo": [
+      "621341",
+      "621342"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia física": {
+    "codigo": [
+      "621341",
+      "621342"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia ocupacional": {
+    "codigo": [
+      "621341",
+      "621342"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consulta": {
+    "codigo": [
+      "621391",
+      "621392",
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "control de peso mediante dietas sin prescripción médica": {
+    "codigo": [
+      "621391",
+      "621392"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "dietética": {
+    "codigo": [
+      "621391",
+      "621392"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tratamientos alimenticios para el control y reducción de peso": {
+    "codigo": [
+      "621391",
+      "621392"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tratamientos alimenticios para la atención de padecimientos": {
+    "codigo": [
+      "621391",
+      "621392"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "acupuntura": {
+    "codigo": [
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hipnoterapia": {
+    "codigo": [
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "masajes terapéuticos": {
+    "codigo": [
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "parteras": {
+    "codigo": [
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "podiatría": {
+    "codigo": [
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "podología": {
+    "codigo": [
+      "621398",
+      "621399"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención médica para el control de la natalidad": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención médica prenatal": {
+    "codigo": [
+      "621411"
+    ],
+    "sector": [
+      "privado"
+    ]
+  },
+  "atención psicoprofiláctica": {
+    "codigo": [
+      "621411"
+    ],
+    "sector": [
+      "privado"
+    ]
+  },
+  "centros de planificación familiar": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consulta de planificación familiar": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "consulta de problemas de fertilidad": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "salpingoclasia": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tratamiento de problemas de fertilidad": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "vasectomía": {
+    "codigo": [
+      "621411",
+      "621412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención médica prenatal proporcionada": {
+    "codigo": [
+      "621412"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "atención psicoprofiláctica proporcionada": {
+    "codigo": [
+      "621412"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "atención médica externa para la rehabilitación de adictos": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención médica externa para la rehabilitación de enfermos mentales": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención médica externa para problemas de alcoholismo": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención médica externa para problemas de drogadicción": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "desintoxicación": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia física para la rehabilitación de enfermos mentales y adictos": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia ocupacional para la rehabilitación de enfermos mentales y adictos": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "terapia psicológica para la rehabilitación de enfermos mentales y adictos": {
+    "codigo": [
+      "621421",
+      "621422"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "clínicas de cirugía ambulatoria": {
+    "codigo": [
+      "621491",
+      "621492"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "clínicas de diálisis": {
+    "codigo": [
+      "621491",
+      "621492"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tratamiento de diálisis peritoneal": {
+    "codigo": [
+      "621491",
+      "621492"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tratamiento de diálisis renal": {
+    "codigo": [
+      "621491",
+      "621492"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tratamiento de hemodiálisis": {
+    "codigo": [
+      "621491",
+      "621492"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis bioquímicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis clínicos": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis clínicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis hematológicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis histopatológicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis hormonales para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis inmunológicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis medico-bacteriológicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis microbiológicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis parasitológicos para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "análisis patológicos": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "audiometría para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "biopsias para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "ecocardiografía para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "electrocardiografía para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "electroencefalografía para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "endoscopia para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "estudios genéticos": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "exudados para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "laboratorios clínicos citológicos para personas prestados": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "laboratorios clínicos de referencia para personas prestados": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "laboratorios médicos y de diagnóstico para personas prestados": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "laboratorios microbacteriológicos para personas prestados": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "laboratorios patológicos para personas prestados": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "mamografía para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "medicina nuclear para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "pruebas de embarazo para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "radiología para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "rayos x para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "resonancia magnética para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "servicios de imagenología": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "tomografía para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "ultrasonografía para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "urianálisis para personas": {
+    "codigo": [
+      "621511",
+      "621512"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "enfermeras que trabajan por su cuenta": {
+    "codigo": [
+      "621610"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "enfermería a domicilio por cuidadoras": {
+    "codigo": [
+      "621610"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "enfermería a domicilio por enfermeras especializadas": {
+    "codigo": [
+      "621610"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "enfermería a domicilio por enfermeras generales": {
+    "codigo": [
+      "621610"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "terapia mediante infusiones a domicilio": {
+    "codigo": [
+      "621610"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "buceo de rescate": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "búsqueda y rescate de personas": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "escolta médica de pacientes": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "órganos": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "permanencia de servicios médicos de urgencia con o sin traslados de ambulancia": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "primeros auxilios": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "traslado de enfermos": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "traslado y atención médica de no urgencia con cuidados de soporte avanzado de vida": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "traslado y atención médica de no urgencia con cuidados de soporte básico de vida": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "traslado y atención médica de no urgencia": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "traslado y atención médica de urgencia": {
+    "codigo": [
+      "621910"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "aplicación de vacunas": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de células germinales o células madre": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de esperma humano": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de ojos": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de órganos": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de sangre": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de semen humano": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "bancos de tejidos": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros de donación de órganos": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros de donación de sangre": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros de osteoporosis": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "esterilización de equipo médico": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "medición de la capacidad auditiva": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "medición de presión sanguínea": {
+    "codigo": [
+      "621991",
+      "621992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales de enfermedades de la mujer": {
+    "codigo": [
+      "622111",
+      "622112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales generales": {
+    "codigo": [
+      "622111",
+      "622112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales geriátricos": {
+    "codigo": [
+      "622111",
+      "622112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales pediátricos": {
+    "codigo": [
+      "622111",
+      "622112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento de alcoholismo": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento de esquizofrenia": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento de hipocondría": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento de neurosis": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento de paranoia": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento de trastornos psicológicos": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales para el tratamiento por adicción": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales psiquiátricos": {
+    "codigo": [
+      "622211",
+      "622212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales de maternidad": {
+    "codigo": [
+      "622311",
+      "622312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hospitales": {
+    "codigo": [
+      "622311",
+      "622312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "casas de reposo físico": {
+    "codigo": [
+      "623111",
+      "623112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros de convalecencia": {
+    "codigo": [
+      "623111",
+      "623112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "residencias": {
+    "codigo": [
+      "623111",
+      "623112",
+      "623211",
+      "623212",
+      "623221",
+      "623222"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "asilos": {
+    "codigo": [
+      "623311",
+      "623312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "casas": {
+    "codigo": [
+      "623311",
+      "623312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "residencias de descanso": {
+    "codigo": [
+      "623311",
+      "623312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "casas cuna": {
+    "codigo": [
+      "623991",
+      "623992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "casas para jóvenes con padres delincuentes": {
+    "codigo": [
+      "623991",
+      "623992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "hogares": {
+    "codigo": [
+      "623991",
+      "623992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "orfanatos": {
+    "codigo": [
+      "623991",
+      "623992"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "albergues escolares": {
+    "codigo": [
+      "623992"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "casas de estudiantes (residencias de asistencia social)": {
+    "codigo": [
+      "623992"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "adopción": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "ayuda vía telefónica para niños y jóvenes": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros de integración juvenil": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "entrenamiento de habilidades y desarrollo social positivo para niños y jóvenes": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "integración social para niños y jóvenes": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "orientación para niños": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "orientación sexual para jóvenes y familias": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "trabajo social para niños y jóvenes": {
+    "codigo": [
+      "624111",
+      "624112"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención y cuidado diurno de ancianos": {
+    "codigo": [
+      "624121",
+      "624122"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención y cuidado diurno de ancianos y personas con discapacidad": {
+    "codigo": [
+      "624121",
+      "624122"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "atención y cuidado diurno de personas con discapacidad": {
+    "codigo": [
+      "624121",
+      "624122"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "integración social para adultos con discapacidad": {
+    "codigo": [
+      "624121",
+      "624122"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "integración social para ancianos": {
+    "codigo": [
+      "624121",
+      "624122"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "rehabilitación profesional para adultos con discapacidad": {
+    "codigo": [
+      "624121",
+      "624122"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "agrupaciones de alcohólicos anónimos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de apoyo a familiares de personas con alguna adición": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de apoyo a familiares de personas con alguna enfermedad terminal": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para alcohólicos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para comedores compulsivos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para drogadictos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para familiares de adictos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para neuróticos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para padres de hijos con parálisis cerebral": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para personas diabéticas": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para personas enfermas de cáncer": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de autoayuda para personas enfermas de sida": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de codependientes anónimos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de comedores compulsivos anónimos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de divorciados anónimos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de narcóticos anónimos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "agrupaciones de neuróticos anónimos": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "grupos de ayuda mutua": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "orientación y apoyo psicológico vía telefónica": {
+    "codigo": [
+      "624191"
+    ],
+    "sector": [
+      "público"
+    ]
+  },
+  "asistencia social para inmigrantes y refugiados": {
+    "codigo": [
+      "624198",
+      "624199"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros": {
+    "codigo": [
+      "624198",
+      "624199"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "orientación a personas con problemas de drogadicción prestados": {
+    "codigo": [
+      "624198",
+      "624199"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "orientación sobre planificación familiar sin atención médica prestados": {
+    "codigo": [
+      "624198",
+      "624199"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "acopio": {
+    "codigo": [
+      "624211",
+      "624212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "alimentación a personas afectadas por catástrofes": {
+    "codigo": [
+      "624211",
+      "624212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "alimentación a personas afectadas por indigencia": {
+    "codigo": [
+      "624211",
+      "624212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "alimentación a personas afectadas por siniestros": {
+    "codigo": [
+      "624211",
+      "624212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "comedores": {
+    "codigo": [
+      "624211",
+      "624212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "entrega": {
+    "codigo": [
+      "624211",
+      "624212"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "albergues": {
+    "codigo": [
+      "624221",
+      "624222"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "refugios temporales comunitarios": {
+    "codigo": [
+      "624221",
+      "624222"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "refugios temporales": {
+    "codigo": [
+      "624221",
+      "624222",
+      "624231",
+      "624232"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "refugios alpinos": {
+    "codigo": [
+      "624231",
+      "624232"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "capacitación para el trabajo para personas con discapacidad": {
+    "codigo": [
+      "624311",
+      "624312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "capacitación para el trabajo para personas desempleadas": {
+    "codigo": [
+      "624311",
+      "624312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "capacitación para el trabajo para personas que por las condiciones": {
+    "codigo": [
+      "624311",
+      "624312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "capacitación para el trabajo para personas subempleadas": {
+    "codigo": [
+      "624311",
+      "624312"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "centros de estimulación temprana": {
+    "codigo": [
+      "624411",
+      "624412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "cuidado diario de niños": {
+    "codigo": [
+      "624411",
+      "624412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  },
+  "guarderías": {
+    "codigo": [
+      "624411",
+      "624412"
+    ],
+    "sector": [
+      "privado",
+      "público"
+    ]
+  }
+}
